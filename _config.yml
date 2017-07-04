@@ -6,16 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Aggressive Libertarians!"
+title: "Not Iniating Force, But Fighting Back"
 email: doughiltz1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Exploring strategies for resisting, progressivism, socialism and government in
+  general.  Small government types are welcome to the conversation.  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.agressivelibertarians.com/" # the base hostname & protocol for your site
+twitter_username: @dooglehiltz
+github_username:  dooglehiltz
 
 # Build settings
 markdown: kramdown
