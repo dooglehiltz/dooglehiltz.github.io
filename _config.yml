@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   general.  Small government types are welcome to the conversation.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.agressivelibertarians.com/" # the base hostname & protocol for your site
-twitter_username: @dooglehiltz
+twitter_username: dooglehiltz
 github_username:  dooglehiltz
 
 # Build settings
