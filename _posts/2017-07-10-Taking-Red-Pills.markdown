@@ -5,8 +5,8 @@ Give people welfare and they become dependent on the state.  Unemployment rates
 rise with unemployment insurance because you are paying people to not work.  The
 "safety net" rather than breaking your fall, is a prison that keeps you down.
 
-    The red pill process can be quite rapid for some but for me it was a slow as
-I tried to integrate the full implications of the non-agression principle with my
+The red pill process can be quite rapid for some but for me it was a slow as I
+tried to integrate the full implications of the non-agression principle with my
 christian/conservative views.  
 
 The first step for me was reading the National Post.  The Post hosts a
