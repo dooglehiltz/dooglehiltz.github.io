@@ -12,3 +12,7 @@ Well you have to read the book!  Or if you don't have the time or inclination a
 [youtube video](https://www.youtube.com/watch?v=nbFty9nZUac) will have to
 suffice!
 
+Not a minor footnote to this story is my discovery of the
+[Mises Institue](https://mises.org/).  In the last post I had mentioned the
+[Cato Institue](https://www.cato.org/) which does great work but find the Mises
+Institue to be more hardcore Libertarian.
