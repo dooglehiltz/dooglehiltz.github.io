@@ -15,4 +15,4 @@ suffice!
 Not a minor footnote to this story is my discovery of the
 [Mises Institue](https://mises.org/).  In the last post I had mentioned the
 [Cato Institue](https://www.cato.org/) which does great work but find the Mises
-Institue to be more hardcore Libertarian.
+Institute to be more hardcore Libertarian.
