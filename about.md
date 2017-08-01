@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Years ago when I was just entering the workforce, I wondered why did I, even
+though I had not yet cast a vote, have thousands of dollars of debt hanging over
+my head from at least two levels of government.  My political philosophy has
+morphing over the years till know where my politics could be described as
+[Libertarian](https://infogalactic.com/info/Libertarianism) and my economic
+views as [Austrian](https://mises.org/about-mises/what-austrian-economics).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I am running a parallel site to this one at a [blogger site](https://grandlibertariantheory.blogspot.ca/).
+If you want to leave comments there you can.  This is part of a larger project
+for me to develop coding skills.
+Jekyll new theme at:
+{% include icon-github.html username="dooglehiltz" %} /
+[The Grand Theory of Libertarianism](https://grandlibertariantheory.blogspot.ca/)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find the source code for Agressive Libertarians at
+{% include icon-github.html username="dooglehiltz" %} /
+[https://github.com/dooglehiltz/dooglehiltz.github.io](https://github.com/dooglehiltz/dooglehiltz.github.io)
