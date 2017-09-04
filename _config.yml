@@ -18,3 +18,5 @@ github_username:  dooglehiltz
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-hacker
