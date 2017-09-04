@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Taking the Red Pill can be quite disorienting as your world view changes and the
 ground seems to shift under your feet.  Things that were once sacred become
 profane.
